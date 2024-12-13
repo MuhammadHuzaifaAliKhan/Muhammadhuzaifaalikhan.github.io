@@ -1,11 +1,6 @@
 nav.theme-dark {background: #470c2f;}
 header .col-text h2, .col-1 > h3 { line-height: 1.8 }
-h1 {
-  font-family: 'Playfair Display', serif; /* Cool font style */
-  color: #1a1a2e; /* Initial color */
-  transition: color 0.3s ease-in-out; /* Smooth color transition */
-}
-h1:hover {color: #470c2f; /* Color changes on hover */}
+h1 {font-family: 'Playfair Display', serif; color: #1a1a2e; /* Initial color }
 header.theme-dark {background: linear-gradient(to right, #77b0a0, #048459); }
 header.theme-dark h1 span.highlight { color: var(--red-900) }
 header.theme-dark .container-btn a.btn:nth-child(2):link,
