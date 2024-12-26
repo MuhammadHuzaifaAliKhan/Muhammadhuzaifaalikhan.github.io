@@ -1,0 +1,11 @@
+nav.theme-dark {background: #470c2f;}
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
+h1 { font-family: 'Playfair Display', serif; color: #1a1a2e;}
+header.theme-dark {background: linear-gradient(to right, #77b0a0, #048459); }
+header.theme-dark h1 span.highlight { color: var(--red-900) }
+header.theme-dark .container-btn a.btn:nth-child(2):link,
+header.theme-dark .container-btn a.btn:nth-child(2):visited { color: var(--white-000); }
+
+header.theme-dark h2 { color: #8d4270}
+
+footer.theme-dark   { background: linear-gradient(to right, #77b0a0, #048459);}
